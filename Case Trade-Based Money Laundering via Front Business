@@ -1,0 +1,45 @@
+# Case Study 02: Trade-Based Money Laundering via Front Business
+
+* **Typology:** Front Company / Cash Intensive Business Obfuscation.
+* **Trigger/Alert:** Cash deposits significantly exceeding the declared economic profile and immediate cross-border wire transfers.
+
+REAL CASE BACKGROUND (The "Pizza Parlor" Front Business):
+A local pizza restaurant named "Bella Italia Bakery" is registered as a small cash-only family business. According to tax declarations, their average monthly revenue is €15,000.
+
+However, an internal AML alert is triggered because the business bank account has received €250,000 in cash deposits through an automated night-deposit safe in just 30 days. Additionally, every Friday, exactly 90% of those funds are wired to a wholesale textile company located in a high-risk jurisdiction known for trade-based money launder
+
+
+
+---
+
+## 1. Criminological & Operational Analysis
+
+* **Subject:** Bella Italia Bakery (Fictitious name for the entity).
+* **KYC Profile vs. Real Activity:** 
+  * Declared Monthly Revenue: €15,000 (Cash-only bakery).
+  * Actual Account Turnover (Last 30 days): €250,000 in cash deposits.
+* **Detected Anomalies & Red Flags:**
+  * 1. Red Flag #1: **Disproportionate Financial Volume:** The cash deposit of €250,000 is completely inconsistent with the operational reality and profit margins of a local bakery.
+  * 2. Red Flag #2: **Structured Routing & High-Risk Destination:** The systematic transfer of exactly 90% of the funds every Friday to a high-risk jurisdiction indicates a routine mechanism designed for rapid fund extraction rather than legitimate commercial commerce.
+  
+* **Criminological Hypothesis:** From a criminal investigation perspective, why is a bakery sending massive amounts of money to a *textile* company abroad? What is the likely crime?
+  Based on the operational behavioral analysis, a local bakery cannot organically generate a quarter of a million euros in cash monthly solely from retail bakery sales. Given the routine nature of the deposits and the immediate weekly integration into an international textile firm, the business is likely acting as a **Front Company**. 
+
+  The chosen modus operandi bypasses traditional "smurfing" (since the funds are not split into smaller individual amounts to avoid thresholds) and strongly aligns with **Trade-Based Money Laundering (TBML)** and **Round-Tripping**, where illicit cash is integrated into the banking system under the guise of fake commercial trade and invoices.
+
+---
+
+## 2. Official STR/SAR Narrative (Financial Intelligence Unit Format)
+
+**EXECUTIVE SUMMARY:** This report is initiated due to a severe mismatch between the entity's commercial nature and its financial volume, indicating potential Trade-Based Money Laundering (TBML).
+
+**INVESTIGATION DETAILS:** The operational analyst reviewed the corporate KYC of "Bella Italia Bakery". While the business profile states a monthly income of While the business profile states a monthly income of €15,000, the transactional review revealed that during the month of June, the subject deposited €250,000 in cash through the automated night-deposit safe. 
+
+Furthermore, the analyst identified a systematic pattern: every Friday, 90% of the cash is converted into international wire transfers directed to a wholesale textile company, a business registered under a completely unrelated sector in a high-risk jurisdiction. There is no logical commercial or economic relationship between a local bakery and a foreign textile wholesaler.
+
+
+**CONCLUSION & RECOMMENDATION:** 
+Based on the criminological indicators of a "front business" and the rapid movement of funds to a high-risk jurisdiction without economic justification, the analyst concludes that:
+* As a Criminologist I believe there is reasonable suspicious activity of illegal asset integration and money laundering. Recognizing the pattern of risky financial movements, which indicates that it could be an illegal activity.
+
+**Recommended Action:** The recommendation is filling a Suspicious Activity Report (STR) to the Financial Unit (FIU). Also, inmediate freezing of the outgoing international transfers and escalation to the Risk Committee for emergency account closure.
