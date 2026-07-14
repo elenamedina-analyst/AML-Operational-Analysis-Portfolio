@@ -1,4 +1,4 @@
-# Case Study 02: Fund Diversion via Crypto-Assets (KYC Inconsistency)
+# Case Study 01: Fund Diversion via Crypto-Assets (KYC Inconsistency)
 
 **Typology:** Use of cryptocurrency exchanges for fund dispersion (*Layering*) and inconsistency in client profile.
 **Trigger/Alert:** A medium-risk client executes repetitive, massive transfers to a Cryptocurrency Exchange immediately after receiving government subsidies/grants.
